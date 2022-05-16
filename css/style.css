@@ -1,0 +1,36 @@
+/*переменые в css,:root 
+
+:root {
+    --primari-color: blue;
+}
+.logo {
+    width: 20px;
+    height: 20px;
+    font-size: 10px;
+    background-color: aliceblue;
+}
+
+.bth {
+    border: 1px solid #ccc;
+}
+.email {
+    color:  #ccc;
+}
+.tel {
+    color: #ccc;
+    background-color: #000;
+}*/
+
+/* функция caic выравнивание по центру
+.contaier {
+    width: calc(100vh-150px);
+    margin: 0 auto;
+}*/
+
+:root {
+    --nuws-color: rgb(230, 216, 20);
+    
+}
+.title {
+    color: var(--nuws-color);
+}
